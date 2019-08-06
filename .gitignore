@@ -1,0 +1,9 @@
+.idea
+.vscode
+yarn.lock
+build/*
+!build/.gitkeep
+src/*
+!src/.gitkeep
+node_modules/
+.DS_Store
